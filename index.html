@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AHMSKILLUP — تحميل الأداة</title>
+<style>
+:root{color-scheme:dark;--bg:#080a10;--surface:#10131b;--surface2:#171b25;--text:#f7f8fb;--muted:#9aa3b2;--line:#252b38;--accent:#7c5cff;--accent2:#6544ee}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif;background:radial-gradient(circle at 50% 15%,#19142d 0,#080a10 42%);color:var(--text)}#app{min-height:100vh;display:flex;flex-direction:column}
+header{border-bottom:1px solid #ffffff0d;background:#080a10aa;backdrop-filter:blur(14px)}.nav{max-width:900px;margin:auto;padding:20px 22px;display:flex;align-items:center;justify-content:center}.brand{font-size:21px;font-weight:850;letter-spacing:-.6px}.brand span{color:#9a86ff}
+main{width:100%;max-width:900px;margin:auto;padding:90px 22px 110px;display:flex;flex:1;align-items:center;justify-content:center}.hero{text-align:center;width:100%;max-width:680px}.hero:before{content:"AH";display:grid;place-items:center;width:76px;height:76px;margin:0 auto 25px;border:1px solid #8d77ff55;border-radius:22px;background:#7c5cff18;color:#a493ff;font-size:23px;font-weight:900;box-shadow:0 0 55px #7c5cff22}.hero h1{margin:0 0 14px;font-size:clamp(34px,7vw,58px);line-height:1.08;letter-spacing:-1.8px}.hero p{margin:0 auto;color:var(--muted);font-size:17px;line-height:1.8;max-width:520px}
+.upload{margin:38px auto 0;text-align:center}.upload-icon{display:none}.upload strong{display:block;font-size:14px;color:#cbd1dc;margin-bottom:13px;font-weight:600}.upload small{display:block;color:var(--muted);font-size:12px}.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;border:0;border-radius:13px;padding:15px 30px;font-weight:800;cursor:pointer;font-size:15px;text-decoration:none}.primary{background:linear-gradient(135deg,var(--accent),#9a70ff);color:white;margin-top:0;min-width:220px;box-shadow:0 12px 35px #7c5cff35;transition:transform .2s,box-shadow .2s}.primary:hover{background:linear-gradient(135deg,var(--accent2),#8d65f7);transform:translateY(-2px);box-shadow:0 16px 42px #7c5cff4d}
+.note{margin-top:32px;color:#687181;font-size:11px;text-align:center}
+@media(max-width:600px){.nav{padding:18px 16px}main{padding:65px 18px 80px}.hero h1{letter-spacing:-1px}.hero p{font-size:15px}.primary{width:100%;max-width:320px}}
+</style></head>
+<body><div id="app">
+<header><div class="nav"><div class="brand">AHMSKILLUP <span>Tools</span></div></div></header>
+<main><section class="hero"><h1>KMS Suite v9.5</h1><p>أداة مخصصة لتنشيط وإدارة تراخيص Windows وOffice بسهولة. اضغط على الزر للانتقال إلى صفحة التنزيل.</p>
+<section class="upload"><strong>النسخة الرسمية المتوفرة للتنزيل</strong><br><a class="btn primary" href="https://www.mediafire.com/file/kdq63txxop26dfk/KMS_Suite_v9.5%25282%2529.rar/file" target="_blank" rel="noopener noreferrer">اضغط هنا للتحميل&nbsp; ↓</a><small>سيتم فتح صفحة MediaFire في تبويب جديد.</small></section></section>
+<div class="note">AHMSKILLUP • Download Center</div>
+</main>
+</div>
+</body></html>
